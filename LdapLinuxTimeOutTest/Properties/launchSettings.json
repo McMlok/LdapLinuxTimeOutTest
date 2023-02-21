@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "LdapLinuxTimeOutTest": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL",
+      "distributionName": "Ubuntu-18.04"
+    }
+  }
+}
